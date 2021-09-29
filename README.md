@@ -1,0 +1,2 @@
+# gitduplicate
+Stage2
